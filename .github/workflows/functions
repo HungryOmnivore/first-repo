@@ -1,0 +1,9 @@
+// notes for banking application
+
+Double Deposit = balance + deposit
+
+Double Withdraw = balance - withdrawal
+
+Double Savings = balance*(1 + interest)
+
+Double Debt = 
